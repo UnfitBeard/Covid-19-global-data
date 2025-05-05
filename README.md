@@ -16,7 +16,7 @@ A Python-based data analysis project tracking global COVID-19 trends, including 
 
 ## 🛠️ Installation
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/covid19-global-tracker.git
+   git clone [myRepo](https://github.com/UnfitBeard/Covid-19-global-data/tree/main).git
    cd covid19-global-tracker
 
 ## Install dependencies:
